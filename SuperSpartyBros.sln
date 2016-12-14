@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSpartyBros.Plugins", "SuperSpartyBros.Plugins.csproj", "{C6F4BDF4-78AC-8C7C-5B56-4A9879C24375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSpartyBros", "SuperSpartyBros.csproj", "{918CBDBB-6FB5-C299-D59E-7A93FDC59BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSpartyBros.Editor", "SuperSpartyBros.Editor.csproj", "{60705F1E-CB68-04AA-51DE-5ECE00413D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F4BDF4-78AC-8C7C-5B56-4A9879C24375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F4BDF4-78AC-8C7C-5B56-4A9879C24375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F4BDF4-78AC-8C7C-5B56-4A9879C24375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F4BDF4-78AC-8C7C-5B56-4A9879C24375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918CBDBB-6FB5-C299-D59E-7A93FDC59BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918CBDBB-6FB5-C299-D59E-7A93FDC59BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918CBDBB-6FB5-C299-D59E-7A93FDC59BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918CBDBB-6FB5-C299-D59E-7A93FDC59BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60705F1E-CB68-04AA-51DE-5ECE00413D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60705F1E-CB68-04AA-51DE-5ECE00413D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60705F1E-CB68-04AA-51DE-5ECE00413D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60705F1E-CB68-04AA-51DE-5ECE00413D80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
